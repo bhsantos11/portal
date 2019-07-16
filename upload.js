@@ -6,4 +6,3 @@ function uploadFile(){
     console.log("File Name" + fileNameEl.value);
     console.log("File" + fileCompleteEl.value);
 }
-}
